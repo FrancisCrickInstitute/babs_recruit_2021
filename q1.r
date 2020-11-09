@@ -5,7 +5,7 @@ df$group <- ifelse(as.integer(df$cellline) <= 3, "Responder", "Non")
 
 # Generate some null data
 
-## If you're familiar with DESeq, then 
+## If you're familiar with DESeq2, then 
 dds <- DESeqDataSetFromMatrix(
   countData = matrix(rpois(1000*nrow(df), lambda = 20), 1000, nrow(df)),
   colData=df,
@@ -16,10 +16,11 @@ dds <- DESeqDataSetFromMatrix(
 
 
 
-## If you're not familiar with DESeq, then
+## If you're not familiar with DESeq2, then
 df$y <- rpois(nrow(df), lambda=20)
 ## Fit a statistical of y. Models must be phrased in a way that
-## they're full-rank, as DESeq rejects designs that aren't.
+## they're full-rank, as DESeq2 rejects designs that aren't.
+## Also, DESeq2 has only fixed-effects capabilities.
 
 
 
