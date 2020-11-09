@@ -1,0 +1,451 @@
+Method,strain,Country,Age,Egg/Cell,ID,Before,After
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,1,0,640
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,2,0,1280
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,3,0,160
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,4,0,640
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,5,40,1280
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,6,40,80
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,7,0,1280
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,8,0,80
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,9,20,640
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,10,10,1280
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,11,0,1280
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,12,0,320
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,13,40,1280
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,14,0,320
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,15,10,320
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,16,0,0
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,17,0,160
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,18,0,160
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,19,40,640
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,20,40,80
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,21,0,0
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,22,40,640
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,23,0,640
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,24,0,320
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,25,0,160
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,26,20,1280
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,27,0,80
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,28,0,1280
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,29,20,320
+HI,A/MICHIGAN/45/2015,China,Adult,Egg,30,0,40
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,1,20,1280
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,2,0,1280
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,3,0,160
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,4,0,1280
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,5,80,1280
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,6,80,80
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,7,20,1280
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,8,0,80
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,9,20,1280
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,10,20,1280
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,11,0,1280
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,12,0,320
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,13,40,1280
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,14,0,640
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,15,0,320
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,16,0,0
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,17,0,320
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,18,0,320
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,19,80,1280
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,20,40,160
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,21,0,0
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,22,40,1280
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,23,0,640
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,24,0,640
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,25,0,640
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,26,80,1280
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,27,0,320
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,28,0,1280
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,29,20,1280
+HI,A/MICHIGAN/45/2015,China,Adult,Cell,30,0,40
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,1,0,640
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,2,0,640
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,3,0,80
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,4,0,1280
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,5,40,1280
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,6,40,20
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,7,0,1280
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,8,0,40
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,9,0,320
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,10,0,1280
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,11,0,1280
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,12,0,160
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,13,40,1280
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,14,0,320
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,15,0,320
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,16,0,0
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,17,0,80
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,18,0,160
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,19,0,1280
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,20,10,80
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,21,0,0
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,22,0,1280
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,23,0,320
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,24,0,320
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,25,0,160
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,26,40,1280
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,27,0,160
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,28,0,1280
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,29,0,640
+HI,A/YOKOHAMA/99/2018,China,Adult,Cell,30,0,0
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,1,0,640
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,2,0,1280
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,3,0,160
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,4,0,1280
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,5,80,1280
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,6,80,40
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,7,0,1280
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,8,0,80
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,9,0,640
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,10,20,1280
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,11,0,1280
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,12,0,320
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,13,40,1280
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,14,0,640
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,15,0,320
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,16,0,0
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,17,0,80
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,18,0,40
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,19,0,1280
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,20,20,80
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,21,0,0
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,22,0,640
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,23,0,640
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,24,0,320
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,25,0,320
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,26,40,1280
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,27,0,160
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,28,0,1280
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,29,0,640
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Adult,Cell,30,0,0
+HI,A/Norway/3433/2018,China,Adult,Cell,1,0,160
+HI,A/Norway/3433/2018,China,Adult,Cell,2,0,320
+HI,A/Norway/3433/2018,China,Adult,Cell,3,0,0
+HI,A/Norway/3433/2018,China,Adult,Cell,4,0,640
+HI,A/Norway/3433/2018,China,Adult,Cell,5,20,320
+HI,A/Norway/3433/2018,China,Adult,Cell,6,0,0
+HI,A/Norway/3433/2018,China,Adult,Cell,7,0,640
+HI,A/Norway/3433/2018,China,Adult,Cell,8,0,20
+HI,A/Norway/3433/2018,China,Adult,Cell,9,0,40
+HI,A/Norway/3433/2018,China,Adult,Cell,10,0,640
+HI,A/Norway/3433/2018,China,Adult,Cell,11,0,1280
+HI,A/Norway/3433/2018,China,Adult,Cell,12,0,40
+HI,A/Norway/3433/2018,China,Adult,Cell,13,20,320
+HI,A/Norway/3433/2018,China,Adult,Cell,14,0,80
+HI,A/Norway/3433/2018,China,Adult,Cell,15,0,80
+HI,A/Norway/3433/2018,China,Adult,Cell,16,0,0
+HI,A/Norway/3433/2018,China,Adult,Cell,17,0,0
+HI,A/Norway/3433/2018,China,Adult,Cell,18,0,40
+HI,A/Norway/3433/2018,China,Adult,Cell,19,0,320
+HI,A/Norway/3433/2018,China,Adult,Cell,20,0,40
+HI,A/Norway/3433/2018,China,Adult,Cell,21,0,0
+HI,A/Norway/3433/2018,China,Adult,Cell,22,0,320
+HI,A/Norway/3433/2018,China,Adult,Cell,23,0,80
+HI,A/Norway/3433/2018,China,Adult,Cell,24,0,160
+HI,A/Norway/3433/2018,China,Adult,Cell,25,0,0
+HI,A/Norway/3433/2018,China,Adult,Cell,26,0,1280
+HI,A/Norway/3433/2018,China,Adult,Cell,27,0,40
+HI,A/Norway/3433/2018,China,Adult,Cell,28,0,640
+HI,A/Norway/3433/2018,China,Adult,Cell,29,0,320
+HI,A/Norway/3433/2018,China,Adult,Cell,30,0,0
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,1,40,40
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,2,0,1280
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,3,0,20
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,4,0,0
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,5,0,640
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,6,0,1280
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,7,10,640
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,8,0,0
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,9,0,0
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,10,0,640
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,11,10,160
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,12,0,40
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,13,0,0
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,14,0,0
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,15,20,1280
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,16,0,80
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,17,20,80
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,18,0,320
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,19,0,40
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,20,0,0
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,21,10,40
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,22,0,320
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,23,40,1280
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,24,80,0
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,25,0,640
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,26,0,0
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,27,0,1280
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,28,0,1280
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,29,20,320
+HI,A/MICHIGAN/45/2015,China,Elderly,Egg,30,0,40
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,1,0,40
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,2,0,1280
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,3,0,40
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,4,0,0
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,5,0,1280
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,6,0,1280
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,7,0,640
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,8,0,0
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,9,0,0
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,10,0,640
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,11,0,320
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,12,0,80
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,13,0,0
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,14,0,0
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,15,0,1280
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,16,0,160
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,17,20,160
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,18,0,1280
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,19,0,0
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,20,0,80
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,21,20,80
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,22,20,320
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,23,0,640
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,24,40,0
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,25,0,1280
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,26,0,0
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,27,0,1280
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,28,20,1280
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,29,20,640
+HI,A/MICHIGAN/45/2015,China,Elderly,Cell,30,0,80
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,1,0,0
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,2,0,1280
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,3,0,0
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,4,0,0
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,5,0,640
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,6,0,640
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,7,0,320
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,8,0,0
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,9,0,0
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,10,0,640
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,11,0,80
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,12,0,80
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,13,0,0
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,14,0,0
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,15,0,1280
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,16,0,80
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,17,0,80
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,18,0,320
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,19,0,0
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,20,0,80
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,21,0,40
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,22,20,320
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,23,0,320
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,24,20,0
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,25,0,640
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,26,0,0
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,27,0,1280
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,28,20,1280
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,29,20,640
+HI,A/YOKOHAMA/99/2018,China,Elderly,Cell,30,0,40
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,1,0,40
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,2,0,1280
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,3,0,20
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,4,0,0
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,5,0,640
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,6,0,1280
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,7,0,320
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,8,0,0
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,9,0,0
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,10,0,640
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,11,0,160
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,12,0,80
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,13,0,0
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,14,0,0
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,15,0,1280
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,16,0,160
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,17,0,80
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,18,0,640
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,19,0,0
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,20,0,80
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,21,0,40
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,22,20,640
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,23,0,640
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,24,20,0
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,25,0,1280
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,26,0,0
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,27,0,1280
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,28,20,1280
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,29,20,640
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Elderly,Cell,30,0,40
+HI,A/Norway/3433/2018,China,Elderly,Cell,1,0,20
+HI,A/Norway/3433/2018,China,Elderly,Cell,2,0,640
+HI,A/Norway/3433/2018,China,Elderly,Cell,3,0,0
+HI,A/Norway/3433/2018,China,Elderly,Cell,4,0,0
+HI,A/Norway/3433/2018,China,Elderly,Cell,5,0,160
+HI,A/Norway/3433/2018,China,Elderly,Cell,6,0,640
+HI,A/Norway/3433/2018,China,Elderly,Cell,7,0,80
+HI,A/Norway/3433/2018,China,Elderly,Cell,8,0,0
+HI,A/Norway/3433/2018,China,Elderly,Cell,9,0,0
+HI,A/Norway/3433/2018,China,Elderly,Cell,10,0,160
+HI,A/Norway/3433/2018,China,Elderly,Cell,11,0,0
+HI,A/Norway/3433/2018,China,Elderly,Cell,12,0,0
+HI,A/Norway/3433/2018,China,Elderly,Cell,13,0,0
+HI,A/Norway/3433/2018,China,Elderly,Cell,14,0,0
+HI,A/Norway/3433/2018,China,Elderly,Cell,15,0,160
+HI,A/Norway/3433/2018,China,Elderly,Cell,16,0,0
+HI,A/Norway/3433/2018,China,Elderly,Cell,17,0,0
+HI,A/Norway/3433/2018,China,Elderly,Cell,18,0,160
+HI,A/Norway/3433/2018,China,Elderly,Cell,19,0,0
+HI,A/Norway/3433/2018,China,Elderly,Cell,20,0,80
+HI,A/Norway/3433/2018,China,Elderly,Cell,21,0,0
+HI,A/Norway/3433/2018,China,Elderly,Cell,22,0,160
+HI,A/Norway/3433/2018,China,Elderly,Cell,23,0,0
+HI,A/Norway/3433/2018,China,Elderly,Cell,24,0,0
+HI,A/Norway/3433/2018,China,Elderly,Cell,25,0,320
+HI,A/Norway/3433/2018,China,Elderly,Cell,26,0,0
+HI,A/Norway/3433/2018,China,Elderly,Cell,27,0,640
+HI,A/Norway/3433/2018,China,Elderly,Cell,28,0,1280
+HI,A/Norway/3433/2018,China,Elderly,Cell,29,0,160
+HI,A/Norway/3433/2018,China,Elderly,Cell,30,0,0
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,1,80,1280
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,2,0,80
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,3,0,0
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,4,0,10
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,5,40,160
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,6,0,10
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,7,80,80
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,8,0,1280
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,9,160,1280
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,10,0,1280
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,11,0,160
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,12,320,320
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,13,640,640
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,14,20,320
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,15,160,160
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,16,80,1280
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,17,160,320
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,18,10,320
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,19,10,320
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,20,0,320
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,21,160,320
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,22,80,1280
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,23,40,1280
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,24,80,320
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,25,160,1280
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,26,80,1280
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,27,40,320
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,28,160,160
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,29,320,640
+HI,A/MICHIGAN/45/2015,China,Paediatric,Egg,30,80,1280
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,1,0,1280
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,2,0,80
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,3,0,0
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,4,0,10
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,5,160,640
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,6,0,10
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,7,160,160
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,8,0,1280
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,9,320,1280
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,10,0,1280
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,11,0,640
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,12,1280,1280
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,13,1280,1280
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,14,80,640
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,15,80,320
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,16,80,1280
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,17,160,640
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,18,40,640
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,19,20,640
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,20,0,640
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,21,640,640
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,22,160,1280
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,23,80,640
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,24,320,320
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,25,320,1280
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,26,320,1280
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,27,40,1280
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,28,640,160
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,29,640,640
+HI,A/MICHIGAN/45/2015,China,Paediatric,Cell,30,320,1280
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,1,0,1280
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,2,0,80
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,3,0,0
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,4,0,0
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,5,80,320
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,6,0,0
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,7,80,80
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,8,0,1280
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,9,160,1280
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,10,0,1280
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,11,0,160
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,12,320,160
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,13,640,640
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,14,40,640
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,15,40,320
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,16,40,1280
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,17,160,320
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,18,10,640
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,19,10,640
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,20,0,640
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,21,320,320
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,22,160,1280
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,23,40,640
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,24,160,320
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,25,160,1280
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,26,160,1280
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,27,20,640
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,28,320,320
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,29,320,320
+HI,A/YOKOHAMA/99/2018,China,Paediatric,Cell,30,160,1280
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,1,0,1280
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,2,0,160
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,3,0,0
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,4,0,0
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,5,160,320
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,6,0,0
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,7,160,160
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,8,0,1280
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,9,160,1280
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,10,0,1280
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,11,0,320
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,12,640,640
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,13,640,640
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,14,40,640
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,15,40,320
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,16,80,1280
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,17,320,320
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,18,0,320
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,19,20,640
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,20,0,640
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,21,320,320
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,22,160,1280
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,23,40,160
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,24,80,80
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,25,320,1280
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,26,160,1280
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,27,20,640
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,28,640,320
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,29,640,640
+HI,A/Hainan-Xiuying/SWL11613/2018 ,China,Paediatric,Cell,30,160,1280
+HI,A/Norway/3433/2018,China,Paediatric,Cell,1,0,640
+HI,A/Norway/3433/2018,China,Paediatric,Cell,2,0,40
+HI,A/Norway/3433/2018,China,Paediatric,Cell,3,0,0
+HI,A/Norway/3433/2018,China,Paediatric,Cell,4,0,0
+HI,A/Norway/3433/2018,China,Paediatric,Cell,5,80,160
+HI,A/Norway/3433/2018,China,Paediatric,Cell,6,0,0
+HI,A/Norway/3433/2018,China,Paediatric,Cell,7,80,40
+HI,A/Norway/3433/2018,China,Paediatric,Cell,8,0,1280
+HI,A/Norway/3433/2018,China,Paediatric,Cell,9,80,1280
+HI,A/Norway/3433/2018,China,Paediatric,Cell,10,0,640
+HI,A/Norway/3433/2018,China,Paediatric,Cell,11,0,160
+HI,A/Norway/3433/2018,China,Paediatric,Cell,12,320,160
+HI,A/Norway/3433/2018,China,Paediatric,Cell,13,160,160
+HI,A/Norway/3433/2018,China,Paediatric,Cell,14,20,160
+HI,A/Norway/3433/2018,China,Paediatric,Cell,15,20,160
+HI,A/Norway/3433/2018,China,Paediatric,Cell,16,20,640
+HI,A/Norway/3433/2018,China,Paediatric,Cell,17,40,160
+HI,A/Norway/3433/2018,China,Paediatric,Cell,18,0,160
+HI,A/Norway/3433/2018,China,Paediatric,Cell,19,0,160
+HI,A/Norway/3433/2018,China,Paediatric,Cell,20,0,160
+HI,A/Norway/3433/2018,China,Paediatric,Cell,21,160,160
+HI,A/Norway/3433/2018,China,Paediatric,Cell,22,80,1280
+HI,A/Norway/3433/2018,China,Paediatric,Cell,23,20,160
+HI,A/Norway/3433/2018,China,Paediatric,Cell,24,80,80
+HI,A/Norway/3433/2018,China,Paediatric,Cell,25,40,1280
+HI,A/Norway/3433/2018,China,Paediatric,Cell,26,40,1280
+HI,A/Norway/3433/2018,China,Paediatric,Cell,27,0,320
+HI,A/Norway/3433/2018,China,Paediatric,Cell,28,160,40
+HI,A/Norway/3433/2018,China,Paediatric,Cell,29,320,320
+HI,A/Norway/3433/2018,China,Paediatric,Cell,30,80,1280
