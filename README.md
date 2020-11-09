@@ -29,7 +29,7 @@ being to assess, for each gene in turn, if the changes of expression
 due to treatment across the individuals labelled as responders, are
 different to those in the non-responder group.
 
-What statistical model makes best use of these 3 + 4
+What statistical model makes best use of these (3+4)×2
 samples, or should the design be changed? What other comparisons might
 the scientist ask of this data, and what contrasts would you propose
 to answer them. 
