@@ -34,8 +34,9 @@ samples, or should the design be changed? What other comparisons might
 the scientist ask of this data, and what contrasts would you propose
 to answer them. 
 
-There is an [R script here](q1.r) that sets up some null data
-corresponding to this question.
+There is an [R script here](q1.r) that sets up some data corresponding
+to this question, or you can work with the [raw data
+object](DESeqDataSet.rds)
 
 
 # Q2) Improving a Simplistic Analysis
