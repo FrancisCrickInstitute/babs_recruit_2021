@@ -6,7 +6,8 @@ questions that we have been asked by Crick scientists. We have given a
 selection so that you can chose which best allows you to express your
 talents in the time allowed, as we generally assign projects based on
 the closest match in skills. We would strongly recommend focussing
-your presentation on Q1 first, though.
+your presentation on Q1, but encourage you to at least think about the
+other two as we might investigate them in the rest of the interview.
 
 If you have any difficulties or concerns, please let me know at
 gavin.kelly@crick.ac.uk. We will post the responses to any questions
@@ -67,7 +68,7 @@ What improvements would you make to this approach.
 
 Sometimes we need to help scientists re-phrase their question before they
 are anwerable. Imagine the following question was emailed to you:
-please draft a response email that will begin a dialogue.
+please draft a response email that will begin a dialogue. 
 
 > There are ~200 genes coding for F-actin-binding proteins (FABP) ,
 > which may be amongst ~5000 somatic mutations which are often seen in
