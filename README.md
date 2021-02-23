@@ -37,7 +37,9 @@ to answer them.
 
 There is an [R script here](q1.r) that sets up some data corresponding
 to this question, or you can work with the [raw data
-object](DESeqDataSet.rds)
+object](DESeqDataSet.rds). Show any candidate 'genes' that a scientist
+might want to validate, or explain what might have led to non being
+present if that is the case.
 
 
 # Q2) Improving a Simplistic Analysis
